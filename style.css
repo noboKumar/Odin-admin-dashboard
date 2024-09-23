@@ -50,3 +50,26 @@ body,.main{
     display: grid;
     gap: 15px;
 }
+.material-symbols-outlined{
+    justify-content: center;
+}
+
+img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+}
+
+/* temporary border  */
+.header{
+    border: 2px solid rgb(33, 128, 141);
+}
+.side-bar{
+    border: 2px solid rgb(131, 124, 26);
+}
+.announcement{
+    border: 2px solid rgb(8, 80, 52);
+}
+.trending{
+    border: 2px solid rgb(20, 40, 94);
+}
